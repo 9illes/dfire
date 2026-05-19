@@ -1,3 +1,5 @@
+👉 **[Access the new repository here](https://gitlab.com/9illes/dfire)**
+
 # Interactive Doom fire effect
 
 An interactive Doom fire effect with realtime adjustment using the open source game library [ebiten](https://ebiten.org/).
